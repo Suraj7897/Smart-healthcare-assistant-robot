@@ -44,3 +44,12 @@ git clone https://github.com/yourusername/Medibot.git
 cd Medibot  
 pip install -r requirements.txt  
 python manage.py runserver  
+
+📸 <span style="color:#e67e22;">Screenshots / Demo</span>
+
+https://github.com/user-attachments/assets/772163f8-917d-40cb-a31e-241742680a6b
+
+
+
+
+
