@@ -1,4 +1,4 @@
-# **Medibot 🤖⚕️**  
+# **Smart-healthcare-assistant-robot 🤖⚕️**  
 *An AI-powered robotic assistant for healthcare automation*  
 
 ## 📌 <span style="color:#3498db;">Overview</span>  
